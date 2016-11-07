@@ -1,2 +1,2 @@
 # Riddles
-threethirtyfive
+threethirtyfive riddles posted with the solution.
